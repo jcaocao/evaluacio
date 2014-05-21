@@ -1,0 +1,28 @@
+*
+{
+	font-size: 20px;
+}
+.titol
+{
+	text-align: center;
+}
+.boto
+{
+	width: 270px;
+
+}
+
+.foto
+{
+	width: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.margintop
+{
+	margin-top: 20px;
+}
